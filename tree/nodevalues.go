@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/fol21/tree-box-drawing"
+	"github.com/fol21/tree-box-drawing/drawer"
 )
 
 // NodeValue is the interface that wraps the Draw method.

@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/fol21/tree-box-drawing"
+	"github.com/fol21/tree-box-drawing/tree"
 	"golang.org/x/net/html"
 )
 
