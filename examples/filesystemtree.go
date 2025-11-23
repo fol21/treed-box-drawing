@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/fol21/tree-box-drawing"
+	"github.com/fol21/tree-box-drawing/tree"
 )
 
 func main() {
