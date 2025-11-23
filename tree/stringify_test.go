@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/m1gwings/treedrawer/drawer"
+	"github.com/fol21/tree-box-drawing/drawer"
 )
 
 func TestParentBiggerThanBothChildren(t *testing.T) {

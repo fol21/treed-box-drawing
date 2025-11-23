@@ -176,7 +176,7 @@ Continue reading this section if you want to draw custom types instead.
 
 First of all we need access to the drawer.Drawer type. Just import the following
 ```go
-import "github.com/m1gwings/treedrawer/drawer"
+import "github.com/fol21/tree-box-drawing/drawer"
 ```
 drawer.Drawer under the hood is just a 2D slice of runes on which you can draw a rune specifying its coordinates or another entire drawer.Drawer specifying the coordinates of its upper-left corner.
 - Defining a custom type

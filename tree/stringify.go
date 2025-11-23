@@ -6,7 +6,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/m1gwings/treedrawer/drawer"
+	"github.com/fol21/tree-box-drawing/drawer"
 )
 
 // stringify takes a pointer to a node and draws all the tree below in a drawer.
